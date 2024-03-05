@@ -1,5 +1,4 @@
 # Programação para Web II - Trabalho 1
-HTML, CSS e Bootstrap.
 
 ## Sobre o projeto 
 - Projeto desenvolvido para avaliação 1 da disciplina de Programação para Web II — IFSC Chapecó.
